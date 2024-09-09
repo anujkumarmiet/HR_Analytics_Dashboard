@@ -1,5 +1,59 @@
 # HR_Analytics_Dashboard
 ### The HR Analytics Dashboard for Employee Attrition provides a comprehensive overview of workforce turnover within the company. It is designed to offer insights into key factors influencing attrition, enabling HR teams to make data-driven decisions. 
+## About Data Set
+### This Data Set Contains 58800 rows and 40 columns.
+**Some main column Attributes are as follows :**
+- Attrition
+- Total Attrition
+- Department
+- Education Field
+- Job role
+- Gender
+- Marital Status
+- Age
+- Education
+- Job Satisfaction
+
+## Tools & Skills Used
+- Excel
+- SQL
+- Pivot Table
+- Data Cleaning
+- Data Preparation
+- Data Analysis
+- Data Visualization
+
+## Dashboard
+### **Header Key Indicators**
+- **Total Employees & Attrition Rate:**
+
+The company has a total of 1,470 employees, with 237 employees who have left, resulting in an attrition rate of 16.12%.
+Active employees currently total 1,233.
+
+- **Attrition by Gender:**
+
+588 females and 882 males make up the employee population.
+Although the specific attrition rates by gender are not explicitly mentioned, a balanced gender ratio should be monitored for trends in gender-based attrition.
+
+- **Attrition by Education:**
+
+Bachelor's degree holders have the highest attrition, followed by Master's degree holders. The trend shows that higher education levels may correlate with higher attrition rates, especially among those with professional degrees.
+
+- **Attrition by Age Group:**
+
+The 26-35 age group experiences the highest attrition, followed by the 36-45 group. This indicates that mid-career employees might be facing challenges or seeking better opportunities.
+
+- **Attrition by Job Role:**
+
+Roles such as Laboratory Technician and Research Scientist show higher attrition compared to other job roles. This suggests retention issues in more technical or specialized roles.
+
+- **Attrition by Department:**
+
+The Sales department has the highest attrition, with a noticeable difference from other departments. This may point to specific challenges in this area, such as work stress, targets, or lack of career progression.
+
+- **Attrition by Marital Status:**
+
+Employees who are single have the highest attrition rates. This could be linked to job satisfaction, work-life balance, or other personal life factors influencing their decision to leave.
 
 
 # Recommendations:
